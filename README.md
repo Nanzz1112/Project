@@ -12,6 +12,6 @@ Contoh penggunaan array dalam program adalah ketika nilai mahasiswa disimpan ke 
 Pada contoh tersebut setiap nilai memiliki indeks, misalnya indeks 0 berisi nilai 67, indeks 1 berisi nilai 70, dan seterusnya. Data yang tersimpan dalam array inilah yang kemudian diproses oleh program untuk melakukan berbagai perhitungan statistik terhadap nilai mahasiswa.
 
 # Screenshot Hasil Eksekusi
-![image alt] (https://github.com/Nanzz1112/Project/blob/main/img/Screenshot%202026-03-14%20123641.png)
+![image alt](https://github.com/Nanzz1112/Project/blob/ad60b347b00867b80cef8cea0d257108033dddf2/img/Screenshot%202026-03-14%20123641.png)
 
 # Analisis
