@@ -59,3 +59,8 @@ Pada tahap akhir, program menampilkan hasil pengolahan data dalam bentuk grafik 
 ## Kompleksitas waktu: O(n)
 
 Secara keseluruhan, sebagian besar proses dalam program memiliki kompleksitas waktu O(n). Hal ini terjadi karena hampir setiap langkah pengolahan data membutuhkan pemeriksaan terhadap seluruh nilai mahasiswa yang tersimpan di dalam array. Dengan demikian, jika jumlah data mahasiswa bertambah, maka waktu yang diperlukan oleh program juga akan meningkat secara linear mengikuti jumlah data tersebut.
+
+# Refleksi Pembelajaran
+Melalui praktikum ini saya mempelajari penggunaan array (list) dalam Python untuk menyimpan data nilai mahasiswa sehingga data dapat dikelola dan diproses dengan lebih mudah. Saya juga belajar menggunakan perulangan dan percabangan untuk melakukan proses seperti memasukkan data, menghitung nilai tertinggi, nilai terendah, rata-rata, serta menentukan mahasiswa yang lulus dan tidak lulus.
+
+Selain itu, praktikum ini membantu saya memahami analisis kompleksitas waktu, dimana sebagian besar proses memiliki kompleksitas O(n) karena program harus memeriksa seluruh data dalam array. Saya juga belajar menampilkan hasil pengolahan data dalam bentuk grafik batang agar informasi lebih mudah dipahami.
